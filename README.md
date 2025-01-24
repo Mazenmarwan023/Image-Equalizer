@@ -97,7 +97,7 @@ This project implements an interactive desktop application for exploring the Fou
 
 - [Mazen marwan](https://github.com/Mazenmarwan023)
 - [Saif mohamed](https://github.com/seiftaha)
-- [Mahmoud mohamed](https://github.com/mahmouddmo22)
+- [Mahmoud mohamed](https://github.com/mahmoudmo22)
 - [Farha](https://github.com/farha1010)
 - [Eman emad](https://github.com/alyaaa20)
 
